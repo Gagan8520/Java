@@ -12,13 +12,12 @@ public class TwitterPost {
     //attachmentsIfAny
     String attachmentsIfAny;
     //numberOfRetweet
-    int numberOfRetweet;
+    long numberOfRetweet;
     //numberOfLoveReact
-    int numberOfLoveReact;
+    long numberOfLoveReact;
     //numberOfComment
-    int numberOfComment;
-    //shareTweet
-    String shareTweet;
+    long numberOfComment;
+
 
     //behavior
     //sharingTweet
