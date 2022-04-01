@@ -34,7 +34,7 @@ public class Arithmetic {
         int c = a + b;
         System.out.println(c);
     }
-}
+
     /* making same method with different paramater
     public static void addFloatNumber(float a, int b){
         float c= a+b;
